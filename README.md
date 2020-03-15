@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/NuclearPineapples/Fish/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Click [here](https://app.etapestry.com/onlineforms/OceanRiverInstituteInc/SupportORI.html) to support the Bluefin tunas. It’s a great oppor-tuna-ty!
 
 ### Markdown
 
